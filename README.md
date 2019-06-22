@@ -2,7 +2,7 @@
 
 This is the staging repo for the full stack dev meetup group. Production happens IRL.
 
-Targeting to make events happen in Oakland or San Francisco: https://www.meetup.com/Full-Stack-Development-Meetup-Group
+Targeting to make events happen in Oakland or San Francisco: [Meetup page](https://www.meetup.com/Full-Stack-Development-Meetup-Group)
 
 ## Request for speakers
 
