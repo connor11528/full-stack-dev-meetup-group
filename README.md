@@ -2,9 +2,9 @@
 
 # Full Stack Developer Meetup Group
 
-This is the staging repo for the full stack dev meetup group. Production happens IRL.
+This group is for software developers that would like to meet other developers and learn more about coding.
 
-Targeting to make events happen in Oakland or San Francisco: [Meetup page](https://www.meetup.com/Full-Stack-Development-Meetup-Group)
+> **First event August 7th at Ask Media Group: https://www.meetup.com/Full-Stack-Development-Meetup-Group/events/262527943/**
 
 ## Request for speakers
 
