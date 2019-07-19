@@ -1,3 +1,5 @@
+![Bay Area Full Stack Development Meetup Group](https://i.imgur.com/NUHq6ZR.png)
+
 # Full Stack Developer Meetup Group
 
 This is the staging repo for the full stack dev meetup group. Production happens IRL.
